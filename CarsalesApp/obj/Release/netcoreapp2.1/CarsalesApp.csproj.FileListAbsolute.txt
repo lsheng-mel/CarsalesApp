@@ -1,0 +1,14 @@
+C:\Users\lsheng\Source\Repos\CarsalesApp\CarsalesApp\bin\Release\netcoreapp2.1\CarsalesApp.deps.json
+C:\Users\lsheng\Source\Repos\CarsalesApp\CarsalesApp\bin\Release\netcoreapp2.1\CarsalesApp.runtimeconfig.json
+C:\Users\lsheng\Source\Repos\CarsalesApp\CarsalesApp\bin\Release\netcoreapp2.1\CarsalesApp.runtimeconfig.dev.json
+C:\Users\lsheng\Source\Repos\CarsalesApp\CarsalesApp\bin\Release\netcoreapp2.1\CarsalesApp.dll
+C:\Users\lsheng\Source\Repos\CarsalesApp\CarsalesApp\bin\Release\netcoreapp2.1\CarsalesApp.pdb
+C:\Users\lsheng\Source\Repos\CarsalesApp\CarsalesApp\obj\Release\netcoreapp2.1\CarsalesApp.csprojAssemblyReference.cache
+C:\Users\lsheng\Source\Repos\CarsalesApp\CarsalesApp\obj\Release\netcoreapp2.1\CarsalesApp.csproj.CoreCompileInputs.cache
+C:\Users\lsheng\Source\Repos\CarsalesApp\CarsalesApp\obj\Release\netcoreapp2.1\CarsalesApp.RazorAssemblyInfo.cache
+C:\Users\lsheng\Source\Repos\CarsalesApp\CarsalesApp\obj\Release\netcoreapp2.1\CarsalesApp.RazorAssemblyInfo.cs
+C:\Users\lsheng\Source\Repos\CarsalesApp\CarsalesApp\obj\Release\netcoreapp2.1\CarsalesApp.AssemblyInfoInputs.cache
+C:\Users\lsheng\Source\Repos\CarsalesApp\CarsalesApp\obj\Release\netcoreapp2.1\CarsalesApp.AssemblyInfo.cs
+C:\Users\lsheng\Source\Repos\CarsalesApp\CarsalesApp\obj\Release\netcoreapp2.1\CarsalesApp.RazorTargetAssemblyInfo.cache
+C:\Users\lsheng\Source\Repos\CarsalesApp\CarsalesApp\obj\Release\netcoreapp2.1\CarsalesApp.dll
+C:\Users\lsheng\Source\Repos\CarsalesApp\CarsalesApp\obj\Release\netcoreapp2.1\CarsalesApp.pdb
